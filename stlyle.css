@@ -1,0 +1,70 @@
+
+body{
+    background-color: rgb(78, 72, 72);
+}
+
+header{
+    background-color: darkorange;
+}
+
+.ul{
+    float: right;
+    background-color: darkorange;
+    color: black;
+    padding: 20px;
+    height: auto;
+}
+h2{
+    text-align: center;
+    margin-left: 17%;
+    font-size: 50px;
+    color: darkorange;
+}
+a{
+    color: darkorange;
+    font-size: 20px;
+}
+
+.jumbotron {
+    background-image:url('https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/32089695_1371618262967060_884917555381141504_o.jpg?_nc_cat=111&_nc_sid=dd9801&_nc_ohc=bxLBko5bLfIAX9RrUvv&_nc_ht=scontent-iad3-1.xx&oh=b06c4cb639067032db462579fca1ab77&oe=5F040270');
+    height:300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border:2px solid darkorange;
+    
+     }
+  .jumbotron .container {
+    position:relative;
+    top:50px;
+    max-width: 100%;
+    
+  }
+
+img{
+    height: 250px;
+    width: 400px;
+    border:solid 2px darkorange;
+    height: auto;
+}
+h5{
+    font-size: 45px;
+    font-weight: 250px;
+    color: darkorange;
+    height: auto;
+
+}
+.media{
+    border:solid 2px darkorange;
+    text-align: center;
+    font-size: 30px;
+    color: darkorange;
+    height: auto;
+}
+footer{
+    float: right;
+}
+@media screen and (max-width: 650px) {
+body{
+    height: auto;
+}
+}
