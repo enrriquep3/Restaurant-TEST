@@ -1,25 +1,20 @@
-
+*{
+    background-color: rgb(78, 72, 72);
+}
 body{
     background-color: rgb(78, 72, 72);
 }
-
-header{
-    background-color: darkorange;
+.navbar{
+    background-color: rgb(78, 72, 72);
+}
+.navbar-brand{
+    background-color:rgb(78, 72, 72); 
 }
 
-.ul{
-    float: right;
-    background-color: darkorange;
-    color: black;
-    padding: 20px;
-    height: auto;
-}
-h2{
-    text-align: center;
-    margin-left: 17%;
-    font-size: 50px;
-    color: darkorange;
-}
+
+
+
+
 a{
     color: darkorange;
     font-size: 20px;
