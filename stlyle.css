@@ -1,25 +1,21 @@
-*{
-    background-color: rgb(78, 72, 72);
-}
 body{
-    background-color: rgb(78, 72, 72);
+    background-color:rgb(77, 64, 64) ;
 }
+
+
 .navbar{
-    background-color: rgb(78, 72, 72);
+    background-color: rgb(77, 64, 64) ;
+    color: white;
+}
+
+#navbarNav{
+    background-color: rgb(77, 64, 64) ;
+    color: white;
 }
 .navbar-brand{
-    background-color:rgb(78, 72, 72); 
+    background-color: rgb(77, 64, 64) ;
+    color: white;
 }
-
-
-
-
-
-a{
-    color: darkorange;
-    font-size: 20px;
-}
-
 .jumbotron {
     background-image:url('https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/32089695_1371618262967060_884917555381141504_o.jpg?_nc_cat=111&_nc_sid=dd9801&_nc_ohc=bxLBko5bLfIAX9RrUvv&_nc_ht=scontent-iad3-1.xx&oh=b06c4cb639067032db462579fca1ab77&oe=5F040270');
     height:300px;
@@ -54,6 +50,7 @@ h5{
     font-size: 30px;
     color: darkorange;
     height: auto;
+    border: 250px, 50, 50, 50;
 }
 footer{
     float: right;
