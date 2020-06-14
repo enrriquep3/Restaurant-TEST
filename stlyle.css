@@ -44,16 +44,30 @@ h5{
     height: auto;
 
 }
-.media{
-    border:solid 2px darkorange;
+p,
+h3{
+    color: white;
+
+}
+.w3-quarter{
     text-align: center;
+}
+
+
+.nav-link{
+    text-align: center;
+    color: white;
+}
+.tablemenu{
+    text-align: center;
+    align-content: center;
     font-size: 30px;
-    color: darkorange;
-    height: auto;
-    border: 250px, 50, 50, 50;
+    color: white;
 }
 footer{
-    float: right;
+    border: 1px solid darkorange;
+    align-content: center;
+    margin: left 200px;
 }
 @media screen and (max-width: 650px) {
 body{
