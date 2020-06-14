@@ -4,7 +4,10 @@ body{
 
 .nav{
     border: 2px solid darkorange;
+    
+    
 }
+
 p,
 h3{
     color: white;
@@ -24,6 +27,7 @@ header{
 .nav-link{
     text-align: center;
     color: white;
+    align-content: center;
 }
 .tablemenu{
     text-align: center;
