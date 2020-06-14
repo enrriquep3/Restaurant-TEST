@@ -26,6 +26,11 @@ h3{
     text-align: center;
     color: white;
 }
+header{
+    align-content: center;
+    border: 2px solid darkorange;
+    text-align: center;
+}
 
 
 .nav-link{
