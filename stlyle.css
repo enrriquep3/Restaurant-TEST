@@ -2,21 +2,9 @@ body{
     background-color:rgb(77, 64, 64) ;
 }
 
-
-.navbar{
-    background-color: rgb(77, 64, 64) ;
-    color: white;
+.nav{
+    border: 2px solid darkorange;
 }
-
-#navbarNav{
-    background-color: rgb(77, 64, 64) ;
-    color: white;
-}
-.navbar-brand{
-    background-color: rgb(77, 64, 64) ;
-    color: white;
-}
-    
 p,
 h3{
     color: white;
