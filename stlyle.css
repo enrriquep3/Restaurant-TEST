@@ -16,34 +16,7 @@ body{
     background-color: rgb(77, 64, 64) ;
     color: white;
 }
-.jumbotron {
-    background-image:url('https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/32089695_1371618262967060_884917555381141504_o.jpg?_nc_cat=111&_nc_sid=dd9801&_nc_ohc=bxLBko5bLfIAX9RrUvv&_nc_ht=scontent-iad3-1.xx&oh=b06c4cb639067032db462579fca1ab77&oe=5F040270');
-    height:300px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    border:2px solid darkorange;
     
-     }
-  .jumbotron .container {
-    position:relative;
-    top:50px;
-    max-width: 100%;
-    
-  }
-
-img{
-    height: 250px;
-    width: 400px;
-    border:solid 2px darkorange;
-    height: auto;
-}
-h5{
-    font-size: 45px;
-    font-weight: 250px;
-    color: darkorange;
-    height: auto;
-
-}
 p,
 h3{
     color: white;
@@ -51,6 +24,7 @@ h3{
 }
 .w3-quarter{
     text-align: center;
+    color: white;
 }
 
 
