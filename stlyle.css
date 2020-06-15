@@ -3,14 +3,21 @@ body{
 }
 
 .nav{
-    border: 2px solid darkorange;
-    
+    border: 2px solid red;
+    align-content: center;
+    align-items: center;
+    text-align: center;
     
 }
 
-p,
+
+p{
+    color: white;
+    border: 2px solid red;
+}
 h3{
     color: white;
+    
 
 }
 .w3-quarter{
@@ -19,7 +26,14 @@ h3{
 }
 header{
     align-content: center;
-    border: 2px solid darkorange;
+    border: 2px solid red;
+    text-align: center;
+}
+.card-body{
+    background-color:rgb(77, 64, 64) ;
+    color: white;
+    border: 2px solid red;
+    align-items: center;
     text-align: center;
 }
 
@@ -28,6 +42,8 @@ header{
     text-align: center;
     color: white;
     align-content: center;
+    align-items: center;
+
 }
 .tablemenu{
     text-align: center;
@@ -36,7 +52,7 @@ header{
     color: white;
 }
 footer{
-    border: 1px solid darkorange;
+    border: 1px solid red;
     align-content: center;
     margin: left 200px;
 }
