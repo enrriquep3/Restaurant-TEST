@@ -2,7 +2,7 @@
 
 <h1>This app display an example of a sushi restaurant website with the menu options, locations, contact</h1>
 
-<h1>Deployment go online https://enrriquep3.github.io/Restaurant-TEST/</h1>
+<h1>Deployment. go online https://enrriquep3.github.io/Restaurant-TEST/</h1>
 <p> </p>
   
   ![](images/sushi.png)
