@@ -1,8 +1,8 @@
-<h1>Sushi Restaurant</h1>
+<h1>Mr Gucci Express (Sushi Restaurant)</h1>
 
 <h1>This app display an example of a sushi restaurant website with the menu options, locations, contact</h1>
 
-<h1>Deployment</h1>
+<h1>Deployment go online https://enrriquep3.github.io/Restaurant-TEST/</h1>
 <p> </p>
   
   ![](images/sushi.png)
@@ -17,6 +17,8 @@
 <h1>Built With</h1>
 <p>Boostrap<br>
 HTML
+<br>
+  CSS
 <br>
 
 <p>
